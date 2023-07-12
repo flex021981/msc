@@ -135,3 +135,16 @@ a:link {
  .page > p:last-of-type {
     margin-bottom: 50px;
  }
+
+ /* (С этим очень сложно работать)
+#button-2,
+#button-3,
+#checkout-button,
+#menu-bar-call-to-action {
+  color: #5D6063;
+} 
+ */
+
+ #button-2 {
+    color: #5D6063;
+  }
