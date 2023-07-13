@@ -1,0 +1,24 @@
+:root {
+    background: white;
+    font-family: "Times New Roman", sans-serif;
+    width: 1310px;
+    font-size: 25px;
+    margin: auto;
+  }
+
+  h1, h2 {
+    color: white;
+    background-color: black;
+  }
+
+  h1 {
+    font-size: 50px;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+  
+  p {
+    text-align: justify;
+  }
