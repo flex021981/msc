@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.header-container {
+    display: flex;
+    background-color: #fe1a19;
+    height: 60px;
+    align-items: center;
+}
+
+.footer-container {
+    display: flex;
+    background-color: #fe1a19;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-and-footer-text {
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+.footer-logo {
+    margin-right: 20px;
+}
+
+.recept-grid {
+    display: flex;
+    margin: 52px auto 52px auto ;
+}
+
+.recept-grid-item {   
+    margin-left: 70px;
+    width: 400px;
+    border-radius: 30px;
+    border: 5px solid #e5e000;
+}
+
+.item-title {
+    margin-left: 33px;
+}
+
+.item-name {
+    margin-left: 33px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', serif;
+}
+
+.item-text {
+    margin-left: 33px;
+    font-family: 'Times New Roman', serif;
+}
