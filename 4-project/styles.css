@@ -2,6 +2,8 @@ body {
     background-color: white;
     font-family: Helvetica, sans-serif;
     font-size: 20px;
+    width: 1440px;
+    margin: auto;
 }
 
 .header-container {
@@ -30,14 +32,13 @@ body {
 
 .recept-flex {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     margin-top: 52px;
     margin-bottom: 52px;
     align-items: center;
 }
 
 .recept-flex-item {   
-    margin-left: 70px;
     width: 400px;
     border-radius: 30px;
     border: 5px solid #e5e000;
